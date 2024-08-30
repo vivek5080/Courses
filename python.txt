@@ -1,1 +1,4 @@
 ************** Python Courses **************
+Learn Python the hard way
+Python fundamentals 
+Bep Freddie all courses
